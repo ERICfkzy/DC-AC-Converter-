@@ -3389,7 +3389,7 @@
 			)
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "FID1")
 					(unit 1)
@@ -3453,7 +3453,7 @@
 			)
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "H4")
 					(unit 1)
@@ -3523,7 +3523,7 @@
 			(uuid "8c84b47b-33a6-4db0-a2d0-e40bdabed2da")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "J4")
 					(unit 1)
@@ -3589,7 +3589,7 @@
 			(uuid "69de6532-4f04-4fc0-a79c-36c0395474d9")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "#PWR05")
 					(unit 1)
@@ -3783,7 +3783,7 @@
 			(uuid "8679b7c1-2a78-45ec-a150-b4243b784661")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "Q2")
 					(unit 1)
@@ -3849,7 +3849,7 @@
 			(uuid "e2659fe8-fa1b-4e08-823f-28d75a031f84")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "#PWR03")
 					(unit 1)
@@ -3916,7 +3916,7 @@
 			(uuid "81cc7925-e79b-4492-bb1b-537e6b814d50")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "H2")
 					(unit 1)
@@ -3995,7 +3995,7 @@
 			(uuid "0ae45e03-e0a9-447e-8786-52fabd84f7b4")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "J3")
 					(unit 1)
@@ -4065,7 +4065,7 @@
 			(uuid "a2577c3d-127d-47ed-a47f-0f16879c6710")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "D1")
 					(unit 1)
@@ -4131,7 +4131,7 @@
 			(uuid "4d319ff4-e4c9-4376-9444-831062c7bd5c")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "#PWR04")
 					(unit 1)
@@ -4197,7 +4197,7 @@
 			(uuid "529acb3e-c193-4b36-8fc6-67d6caddcc13")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "#PWR02")
 					(unit 1)
@@ -4269,7 +4269,7 @@
 			(uuid "268cc289-3a92-4e79-aae9-58f1e4c6207e")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "U3")
 					(unit 1)
@@ -4343,7 +4343,7 @@
 			(uuid "1cecaa9c-677d-4f42-b863-abf1379fbfc9")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "J2")
 					(unit 1)
@@ -4409,7 +4409,7 @@
 			(uuid "e0ac3604-de8d-4197-854b-e496a7fca296")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "#PWR01")
 					(unit 1)
@@ -4485,7 +4485,7 @@
 			(uuid "48257373-cfa4-4e4f-9996-f49bc1e7a908")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "Q3")
 					(unit 1)
@@ -4551,7 +4551,7 @@
 			(uuid "9fd90a41-c0ee-48f5-ac2a-be43390c0ae3")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "#PWR06")
 					(unit 1)
@@ -4745,7 +4745,7 @@
 			(uuid "87bd96d2-7fec-46f8-bb41-1306e9223c95")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "Q4")
 					(unit 1)
@@ -4815,7 +4815,7 @@
 			(uuid "b222500a-2890-41be-ac45-4c4d0ca2eefb")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "C1")
 					(unit 1)
@@ -4890,7 +4890,7 @@
 			(uuid "3637fa14-7184-485a-9097-5551930e3a4f")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "Q1")
 					(unit 1)
@@ -4954,7 +4954,7 @@
 			)
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "FID2")
 					(unit 1)
@@ -5042,7 +5042,7 @@
 			(uuid "b099a339-bf23-49d4-8efc-e5c131a57eb5")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "U1")
 					(unit 1)
@@ -5121,7 +5121,7 @@
 			(uuid "6ddc7ba8-8d3f-4e3f-95c4-9bcf390d4921")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "J1")
 					(unit 1)
@@ -5191,7 +5191,7 @@
 			(uuid "2c86cbaa-a2a2-43c7-abf6-47861c72a4a2")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "R1")
 					(unit 1)
@@ -5258,7 +5258,7 @@
 			(uuid "0a35af3c-96e7-42aa-bc7d-ae04910b0144")
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "H1")
 					(unit 1)
@@ -5322,7 +5322,7 @@
 			)
 		)
 		(instances
-			(project "AC_M V2"
+			(project "DC-AC Converter"
 				(path "/907d77e3-c168-455a-b3e6-ab5b57505f53"
 					(reference "H3")
 					(unit 1)
