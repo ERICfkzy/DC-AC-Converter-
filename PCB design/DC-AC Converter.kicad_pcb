@@ -204,7 +204,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO?220*")
 		(path "/be8cb96a-bd13-465b-8e93-430abdd74568")
+		(sheetname "Root")
+		(sheetfile "DC-AC Converter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.58 -19.58)
@@ -1359,7 +1362,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330"
 			(at 2.54 1.92 180)
 			(layer "F.Fab")
 			(uuid "4f0e5e15-6529-45f1-93f3-15ce42a18171")
@@ -3040,7 +3043,10 @@
 				)
 			)
 		)
-		(path "/bc212545-833d-4b48-93bb-5fcf45830edd")
+		(property ki_fp_filters "MountingHole*Pad*")
+		(path "/89428a12-44d6-42eb-b8d1-c323dae3d850")
+		(sheetname "Root")
+		(sheetfile "DC-AC Converter.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3326,6 +3332,8 @@
 			)
 		)
 		(path "/1f787961-5bdf-4895-80fb-2a1aa7da2a0b")
+		(sheetname "Root")
+		(sheetfile "DC-AC Converter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.66 -19.58)
@@ -3821,6 +3829,8 @@
 			)
 		)
 		(path "/ac4cc17d-d06d-4473-a829-584b66885227")
+		(sheetname "Root")
+		(sheetfile "DC-AC Converter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.66 -19.58)
@@ -4876,7 +4886,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO?220*")
 		(path "/956d2371-a96f-4194-a891-72ea9fc07cf9")
+		(sheetname "Root")
+		(sheetfile "DC-AC Converter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.58 -19.58)
